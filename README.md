@@ -3,4 +3,5 @@
 
 You can find this projects:
 + Starting a motor in Star configuration, then switching to Delta configuration
+  + This project was implemented using Simatic Manager with a Siemens PLC.
 
