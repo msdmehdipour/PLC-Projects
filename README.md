@@ -3,7 +3,7 @@
 
 You can find this projects:
 
-+ "Counting with the Sensors": Counting the numbers of products with two sensors. 
++ "Counting with the Sensors": Counting the numbers of products with two sensors
   + This project was implemented using Simatic Manager with a Siemens PLC.
 
 + "Two_Motor_One_Button": Turning on two motors respectively and turning them off with just one button 
